@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "title": "Koshari",
+    "cuisine": "Egyptian",
+    "difficulty": "Medium",
+    "minutes": 60,
+    "diet": [
+      "Vegan"
+    ],
+    "rest": 0,
+    "image": "koshari",
+    "ingredients": "1 cup rice\n1 cup brown lentils\n1 cup macaroni\n2 onions, sliced\n400 g tomato sauce\n1 tsp cumin\n2 tbsp vinegar",
+    "method": "Cook lentils and rice together until tender.\nBoil the macaroni.\nFry onions until dark and crisp.\nSimmer tomato sauce with cumin and vinegar.\nLayer rice, lentils and pasta, then top with sauce and onions."
+  },
+  {
+    "id": 2,
+    "title": "Margherita Pizza",
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "minutes": 45,
+    "diet": [
+      "Vegetarian"
+    ],
+    "rest": 60,
+    "image": "pizza",
+    "ingredients": "500 g flour\n320 ml warm water\n7 g yeast\n200 g tomato passata\n200 g mozzarella\nFresh basil",
+    "method": "Mix dough and let it rest for one hour.\nStretch the dough thinly.\nSpread passata, add mozzarella.\nBake at the highest oven setting for 8 minutes.\nTop with basil."
+  },
+  {
+    "id": 3,
+    "title": "Chicken Curry",
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "minutes": 50,
+    "diet": [
+      "Gluten-free"
+    ],
+    "rest": 30,
+    "image": "curry",
+    "ingredients": "600 g chicken thigh\n1 onion\n3 garlic cloves\n2 tbsp curry powder\n400 ml coconut milk\nFresh coriander",
+    "method": "Marinate chicken in curry powder for 30 minutes.\nFry onion and garlic until soft.\nAdd chicken and brown it.\nPour in coconut milk and simmer for 25 minutes.\nServe with rice and coriander."
+  },
+  {
+    "id": 4,
+    "title": "Greek Salad",
+    "cuisine": "Greek",
+    "difficulty": "Easy",
+    "minutes": 15,
+    "diet": [
+      "Vegetarian",
+      "Gluten-free"
+    ],
+    "rest": 0,
+    "image": "salad",
+    "ingredients": "4 tomatoes\n1 cucumber\n1 red onion\n150 g feta\nHandful of olives\n3 tbsp olive oil\nOregano",
+    "method": "Chop vegetables into chunks.\nCombine in a bowl with olives.\nTop with feta, oil and oregano."
+  },
+  {
+    "id": 5,
+    "title": "Fluffy Pancakes",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "minutes": 20,
+    "diet": [
+      "Vegetarian"
+    ],
+    "rest": 10,
+    "image": "pancakes",
+    "ingredients": "200 g flour\n2 tsp baking powder\n1 egg\n300 ml milk\nButter\nMaple syrup",
+    "method": "Whisk dry ingredients, then add egg and milk.\nRest the batter for 10 minutes.\nCook ladlefuls in a buttered pan until bubbles form, then flip.\nStack with butter and syrup."
+  },
+  {
+    "id": 6,
+    "title": "Tomato Soup",
+    "cuisine": "French",
+    "difficulty": "Easy",
+    "minutes": 35,
+    "diet": [
+      "Vegan",
+      "Gluten-free"
+    ],
+    "rest": 0,
+    "image": "soup",
+    "ingredients": "1 kg ripe tomatoes\n1 onion\n2 garlic cloves\n500 ml vegetable stock\nBasil",
+    "method": "Soften onion and garlic.\nAdd chopped tomatoes and stock.\nSimmer for 20 minutes.\nBlend until smooth and season."
+  }
+]
