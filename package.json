@@ -1,1 +1,1 @@
-{ "name": "taste-ledger", "version": "1.0.0", "scripts": { "start": "node server.js" } }
+{ "name": "taste-ledger", "version": "1.0.0", "license": "UNLICENSED", "scripts": { "start": "node server.js" }, "dependencies": { "pg": "^8.13.0" } }
